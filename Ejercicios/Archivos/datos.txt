@@ -1,0 +1,7 @@
+Python es un lenguaje de programación versátil y poderoso.
+Se usa en ciencia de datos, inteligencia artificial y desarrollo web.
+Sus principales características son: simplicidad, legibilidad y gran comunidad.
+Python
+Números importantes:
+123 456 789 101112 131415 161718 192021
+Python
